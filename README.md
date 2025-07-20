@@ -7,6 +7,14 @@ This repository is a compilation of codes that will be used for our project demo
 Thank you.
 
 
+## Project Description:
+
+#### This project is a collaborative effort to simplify the method of disposing food waste in a more sustainable way.
+#### Rather than throwing them in the bin, why not send them to proper centres or organisations that compost them?
+#### The idea is to build a web app that shows you the nearest food disposal centre depending on where you are.
+#### We will be focusing on only within Kuala Lumpur for now.
+
+
 ## Team Members:
 
 ### Dataset Team:

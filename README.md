@@ -8,12 +8,16 @@ Thank you.
 
 ## Team Members:
 
+### Dataset Team:
+
+1. Nurrul Durathon Nasihin
+
+2. Fatihah Atikah
+
+### Web App Team:
+
 1. Nabihah Adnin Abdullah
 
 2. Syafiqah Athirah
 
-4. Hana Shah
-
-5. Nurrul Durathon Nasihin
-
-6. Fatihah Atikah
+3. Hana Shah
